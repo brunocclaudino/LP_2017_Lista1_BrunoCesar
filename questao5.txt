@@ -1,0 +1,8 @@
+Imperativas: Tambem chamada de linguagens procedurais, a execução é baseada em comandos e armazenamento de dados.
+Ex:Python,C.
+Funcional: É um paradigma de programação que trata a computação como uma avaliação de funções matemáticas. 
+Ex:Lisp,Haskell.
+Logica: É um paradigma de programação que trata a computação como uma avaliação de logicas matemáticas. 
+Ex:Prolog,Oz.
+Marcação:É um conjunto de códigos aplicados a um texto ou a dados, com o fim de adicionar informações particulares sobre esse texto ou dado, ou sobre trechos específicos.
+Ex:HTML,XML;

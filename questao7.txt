@@ -1,0 +1,1 @@
+Paradigma de programação - Determina e fornece a visão que o programador possui sobre a estruturação e execução do programa.

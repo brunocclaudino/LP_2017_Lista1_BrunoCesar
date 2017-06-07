@@ -1,0 +1,7 @@
+Analise semântica é a terceira etapa de compilação, ela coleta informações necessarias 
+para a proxima etapa de compilação,ela verifica os erros semânticos.
+
+Semântica Operacional: visa em como os programas são executados do que meramente com os resultados.
+Semântica Axiomatica: visa provar as propriedades do programa atraves da logica formal.
+Semântica Denotacional:O efeito da computação interessa mais que como ela é produzida.
+

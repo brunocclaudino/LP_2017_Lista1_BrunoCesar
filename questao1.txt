@@ -1,0 +1,5 @@
+-Linguagem de alto-nivel: É a linguagem mais proxima da linguagem humana.
+-Linguagem de baixo-nivel: É a linguagem mais proxima da linguagem da maquina(0's e 1's).
+Diferença: A principal diferença esta justamente no foco de cada Linguagem, uma foca na linguagem humano e a outra na linguagem da maquina.
+
+Compilador: Tem fundamental importância pois o compilador recebe o codigo e transforma ele em um codigo binario(0's e 1's), o mesmo servo como um tradutor do codigo.
